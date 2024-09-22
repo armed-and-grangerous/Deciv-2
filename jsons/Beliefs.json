@@ -141,6 +141,7 @@
 		"name": "Religious Settlements",
 		"type": "Pantheon",
 		"uniques": [
+			"Free [Great Sage] appears",
 			"[-15]% Culture cost of natural border growth [in all cities]",
 			"[-15]% Gold cost of acquiring tiles [in this city]"
 		]
@@ -310,6 +311,8 @@
 		"name": "Interfaith Dialogue",
 		"type": "Founder",
 		"uniques": [
+			"Free [Great Sage] appears",
+			"Gain [1000] [Science] <upon expending a [Great Person] unit> <(modified by game speed)>",
 			"When spreading religion to a city, gain [10] times the amount of followers of other religions as [Science]"
 		]
 	},
