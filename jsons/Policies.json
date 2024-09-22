@@ -229,6 +229,7 @@
 			"Scientific": 0
 		},
 		"uniques": [
+			"Gain [1000] [Gold] <upon expending a [Great Person] unit> <(modified by game speed)>",
 			"[+100]% Production when constructing [Faith] buildings [in all cities]",
 			"Only available <before adopting [Rationalism]>"
 		],
